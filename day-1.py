@@ -1,12 +1,12 @@
 """
 day 1 : 
 
-    Python program to check if List containts consectuvie 3
-    has_33([1, 3, 3]) --> True
-    has_33([1, 3, 1, 3]) --> False
-    has_33([3, 1, 3]) --> False
-    has_33([3,3,1]) --> True
-    
+Python program to check if List containts consectuvie 3
+has_33([1, 3, 3]) --> True
+has_33([1, 3, 1, 3]) --> False
+has_33([3, 1, 3]) --> False
+has_33([3,3,1]) --> True
+
 """
 
 def has_33(list_input):
